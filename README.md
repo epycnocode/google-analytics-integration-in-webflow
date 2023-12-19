@@ -38,14 +38,5 @@ HTML
   });
 </script>
 ```
-
-**4. Remember:**
-
-  - Replace "GTM-YOUR_ID" with your actual Google Tag Manager ID.
-  - Start with basic tracking and gradually add more events for deeper insights.
-  - Test your implementation thoroughly to ensure accurate data collection.
-
-**Bonus Tip:** Explore Webflow University's resources on Google Analytics integration for detailed instructions and advanced techniques.
-
 # Need Help?
 Need custom [Webflow Development](https://epyc.in/)?
